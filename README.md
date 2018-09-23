@@ -1,6 +1,6 @@
 # ShoppingList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+[Angular 6](https://www.udemy.com/the-complete-guide-to-angular-2/) course.
 
 ## Development server
 
